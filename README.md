@@ -6,10 +6,10 @@ Microsoft-Power BI | Excel
 
 ## 👥 Team Members:
 1)	<a href="https://github.com/mamdou7mansour">Mamdouh Mansour</a>
-2)	Malak Ahmed Abdel Hamid Ahmed
-3)	Ghidaa Rafaat Mahmoud Ismail
-4)	Ahmed Snousy Galal Snousy
-5)	Shrouq Mohamed Abo El Fotouh Saber
+2)	<a href="https://github.com/malekaahmed343-droid">Malak Ahmed</a>
+3)	<a href="https://github.com/ghidaa">Ghidaa Rafaat</a>
+4)	<a href="">Ahmed Snousy</a>
+5)	<a href="">Shrouq Mohamed</a>
 
 ## 📍 Project Overview:
 Consumer-Issue-Intelligence-Hub is a high-performance analytics platform that transforms 62,000+ raw consumer complaints into strategic insights. Leveraging a specialized Star Schema and advanced DAX modeling, it evaluates corporate responsiveness and service bottlenecks across 200+ issue categories. The project provides a granular, 51-state geographical analysis integrated with a custom Time-Intelligence framework for trend forecasting. By bridging the gap between raw data and actionable intelligence, it empowers stakeholders to optimize resolution workflows and enhance overall customer experience.
